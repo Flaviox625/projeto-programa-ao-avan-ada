@@ -1,2 +1,1 @@
-
-porjeto referente as listas de exercicios passadas
+porjeto referente as listas de exercicios passadas para dar inicio ao uso do git
